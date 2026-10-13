@@ -1,6 +1,6 @@
 # SUCKINST
 Instagram Brute-Force &amp; Session Manager
-![SUCKINST Banner]screenshot.jpg
+![SUCKINST](screenshot.jpg)
 
 # Installation
 ```bash
